@@ -1,1 +1,1 @@
-# Skeet-CS165
+# Skeet
